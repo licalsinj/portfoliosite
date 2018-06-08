@@ -1,0 +1,39 @@
+body {
+     position: relative;
+ }
+.profile-pic{
+ border-radius: 50%;
+ border: 2px solid black;
+ margin: 10%;
+}
+
+.btn-warning{
+ box-shadow: 10px 10px grey;
+}
+#vert-center{
+ padding-top: 50px;
+}
+
+div.polaroid {
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ text-align: center;
+ background: white;
+ border: 5px solid white;
+ margin-top:10px;
+}
+.polaroid-pic {
+ width: 100%;
+ border: 5px solid white;
+}
+
+div.container {
+ padding: 10px;
+}
+
+.portfolio a {
+ color: #000;
+ text-decoration: none;
+}
+.contact a {
+ color: #000;
+}
